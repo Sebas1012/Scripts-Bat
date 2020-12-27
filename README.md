@@ -1,6 +1,6 @@
-<br aling="center">
+<p aling="center">
     <img src="https://cdn.svgporn.com/logos/bash-icon.svg"/>
-<br>
+</p>
 
 
 
