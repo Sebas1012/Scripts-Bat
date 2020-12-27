@@ -1,3 +1,10 @@
+<br>
+    <img src="https://cdn.svgporn.com/logos/bash-icon.svg"/>
+<br>
+
+
+
+
 # Scripts-Bat
 En este repositorio almacenare todos los archivos batch que haga para facilitar tareas.
 
