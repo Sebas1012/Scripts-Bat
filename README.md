@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="250px" width="250px" src="https://cdn.svgporn.com/logos/bash-icon.svg"/>
+    <img height="200px" width="200px" src="https://cdn.svgporn.com/logos/bash-icon.svg"/>
 </p>
 
 
