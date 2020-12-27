@@ -32,16 +32,19 @@ if %opcion% NEQ 5 goto error
 :opcion1
 cls
 del c:\Windows\Temp /f /s /q
+rd c:\Windows\Temp /s /q
 goto menu2
 
 :opcion2
 cls
 del C:\Users\%username%\AppData\Local\Temp /f /s /q
+rd C:\Users\%username%\AppData\Local\Temp /s /q
 goto menu2
 
 :opcion3
 cls
 del C:\Windows\Prefetch /f /s /q
+rd C:\Windows\Prefetch /s /q
 goto menu2
 
 :opcion4
@@ -49,6 +52,10 @@ cls
 del c:\Windows\Temp /f /s /q
 del C:\Users\%username%\AppData\Local\Temp /f /s /q
 del C:\Windows\Prefetch /f /s /q
+
+rd c:\Windows\Temp /s /q
+rd C:\Users\%username%\AppData\Local\Temp /s /q
+rd C:\Windows\Prefetch /s /q
 goto menu2
 
 :opcion5
