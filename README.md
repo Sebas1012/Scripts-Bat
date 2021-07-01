@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="200px" width="200px" src="https://cdn.svgporn.com/logos/terminal.svg"/>
+    <img height="140px" width="140px" src="https://cdn.svgporn.com/logos/terminal.svg"/>
 </p>
 
 # Scripts para consola:
